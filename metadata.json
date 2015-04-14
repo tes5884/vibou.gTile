@@ -1,1 +1,7 @@
-{"shell-version": ["3.12"], "uuid": "gTile@vibou", "name": "gTile", "description": "Tile your windows as you like. It even supports multiscreen ! -EDIT: - See README file for configuration -", "url" : "https://github.com/vibou/vibou.gTile"}
+{
+"shell-version": ["3.16"], 
+"uuid": "gTile@vibou", 
+"name": "gTile", 
+"description": "Tile your windows as you like.", 
+"url" : "https://github.com/tes5884/vibou.gTile"
+}
